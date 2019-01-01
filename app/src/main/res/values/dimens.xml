@@ -1,0 +1,72 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!--Home_006-->
+    <dimen name="home_main_image_layout_margin_left006">10dp</dimen>
+    <dimen name="home_main_image_layout_height006">140dp</dimen>
+    <dimen name="home_main_image_layout_margin_top006">10dp</dimen>
+    <dimen name="home_main_image_layout_margin_right006">10dp</dimen>
+    <dimen name="home_main_image_width006">80dp</dimen>
+    <dimen name="home_main_image_height006">80dp</dimen>
+    <dimen name="home_second_image_layout_margin_top006">1dp</dimen>
+    <dimen name="home_second_image_layout_margin_bottom006">1dp</dimen>
+    <dimen name="home_second_image_layout_margin_left006">10dp</dimen>
+    <dimen name="home_second_image_widht006">60dp</dimen>
+    <dimen name="home_second_image_height006">60dp</dimen>
+    <dimen name="home_second_image_margin006">25dp</dimen>
+    <dimen name="home_second_image_text_margin_bottom006">25dp</dimen>
+    <dimen name="home_second_image_text_margin_top006">1dp</dimen>
+    <dimen name="home_second_image_text_size006">22sp</dimen>
+    <dimen name="home_third_image_layout_margin_top006">1dp</dimen>
+    <dimen name="home_third_image_layout_margin_bottom006">1dp</dimen>
+    <dimen name="home_third_image_layout_margin_right006">10dp</dimen>
+    <dimen name="home_third_image_widht006">60dp</dimen>
+    <dimen name="home_third_image_height006">60dp</dimen>
+    <dimen name="home_third_image_margin006">25dp</dimen>
+    <dimen name="home_second_image_layout_margin_right006">0.75dp</dimen>
+    <dimen name="home_third_image_layout_margin_left006">0.75dp</dimen>
+    <dimen name="home_third_image_text_margin_bottom006">25dp</dimen>
+    <dimen name="home_third_image_text_margin_top006">1dp</dimen>
+    <dimen name="home_third_image_text_size006">22sp</dimen>
+    <dimen name="home_fourth_image_layout_margin_left006">10dp</dimen>
+    <dimen name="home_fourth_image_layout_height006">188dp</dimen>
+    <dimen name="home_fourth_image_width006">60dp</dimen>
+    <dimen name="home_fourth_image_height006">60dp</dimen>
+    <dimen name="home_fourth_image_margin_top006">25dp</dimen>
+    <dimen name="home_fourth_image_margin_left006">25dp</dimen>
+    <dimen name="home_fourth_image_margin_right006">25dp</dimen>
+    <dimen name="home_fourth_image_margin_bottom006">10dp</dimen>
+    <dimen name="home_fourth_image_text_size006">20sp</dimen>
+    <dimen name="home_fourth_image_text_margin_bottom006">10dp</dimen>
+    <dimen name="home_fifth_image_layout_height006">188dp</dimen>
+    <dimen name="home_fifth_image_width006">60dp</dimen>
+    <dimen name="home_fifth_image_height006">60dp</dimen>
+    <dimen name="home_fifth_image_margin_top006">25dp</dimen>
+    <dimen name="home_fifth_image_margin_left006">25dp</dimen>
+    <dimen name="home_fifth_image_margin_right006">25dp</dimen>
+    <dimen name="home_fifth_image_margin_bottom006">10dp</dimen>
+    <dimen name="home_fifth_image_text_size006">20sp</dimen>
+    <dimen name="home_fifth_image_text_margin_bottom006">10dp</dimen>
+    <dimen name="home_sixth_image_layout_margin_right006">10dp</dimen>
+    <dimen name="home_sixth_image_layout_height006">188dp</dimen>
+    <dimen name="home_sixth_image_width006">60dp</dimen>
+    <dimen name="home_sixth_image_height006">60dp</dimen>
+    <dimen name="home_sixth_image_margin_top006">25dp</dimen>
+    <dimen name="home_sixth_image_margin_left006">25dp</dimen>
+    <dimen name="home_sixth_image_margin_right006">25dp</dimen>
+    <dimen name="home_sixth_image_margin_bottom006">10dp</dimen>
+    <dimen name="home_sixth_image_text_size006">20sp</dimen>
+    <dimen name="home_sixth_image_text_margin_bottom006">10dp</dimen>
+
+
+    <dimen name="home_fourth_image_layout_margin_top006">0.75dp</dimen>
+    <dimen name="home_fourth_image_layout_margin_right006">0.75dp</dimen>
+    <dimen name="home_fifth_image_layout_margin_top006">0.75dp</dimen>
+    <dimen name="home_fifth_image_layout_margin_left006">0.75dp</dimen>
+    <dimen name="home_fifth_image_layout_margin_right006">0.75dp</dimen>
+    <dimen name="home_sixth_image_layout_margin_top006">0.75dp</dimen>
+    <dimen name="home_sixth_image_layout_margin_left006">0.75dp</dimen>
+</resources>

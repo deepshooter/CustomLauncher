@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CustomLauncher</string>
+
+    <!--006-->
+    <string name="home_hair_style006">Twitter</string>
+    <string name="home_appointment006">COC</string>
+    <string name="home_hair_gallery006">Music</string>
+    <string name="home_hair_directions006">Video</string>
+    <string name="home_hair_aboutus006">Search</string>
+
+</resources>

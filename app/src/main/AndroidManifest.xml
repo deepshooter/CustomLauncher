@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="deepshooter.com.customlauncher">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="deepshooter.com.customlauncher.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <receiver android:name="deepshooter.com.customlauncher.Widget.ExampleAppWidgetProvider">
+        <intent-filter>
+            <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            <action android:name="mmadapps.com.customlauncher.ACTION_WIDGET_MUSIC" />
+            <action android:name="mmadapps.com.customlauncher.ACTION_WIDGET_VIDEO" />
+            <action android:name="mmadapps.com.customlauncher.ACTION_WIDGET_SEARCH" />
+
+        </intent-filter>
+
+        <meta-data
+            android:name="android.appwidget.provider"
+            android:resource="@xml/example_appwidget_info" />
+
+        </receiver>
+
+    </application>
+
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+</manifest>
